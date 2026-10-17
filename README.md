@@ -29,17 +29,17 @@ I enjoy problems involving **system design, performance, automation, cloud archi
 ### ᛖ Featured project: Eitr
 
 <a href="https://eitr.info">
-  <img src="https://raw.githubusercontent.com/erickbatistaprado/eitr/main/branding/png/eitr-wordmark-green-1024.png" alt="Eitr" width="220" align="right"/>
+  <img src="https://raw.githubusercontent.com/eitr-org/eitr/main/branding/png/eitr-wordmark-green-1024.png" alt="Eitr" width="220" align="right"/>
 </a>
 
-**[Eitr](https://github.com/erickbatistaprado/eitr)** is an Arch Linux desktop built around Hyprland, Quickshell and Walker: one calm, theme-aware desktop, packed with features from the first boot. Visit **[eitr.info](https://eitr.info)** to see everything it can do.
+**[Eitr](https://github.com/eitr-org/eitr)** is an Arch Linux desktop built around Hyprland, Quickshell and Walker: one calm, theme-aware desktop, packed with features from the first boot. Visit **[eitr.info](https://eitr.info)** to see everything it can do.
 
 <p align="center">
   <a href="https://eitr.info"><img src="https://eitr.info/shots/walker.webp" alt="Eitr's main menu on the Norse theme" width="760"/></a>
 </p>
 
 <p align="center">
-  <a href="https://eitr.info"><b>Website & download</b></a> · <a href="https://github.com/erickbatistaprado/eitr">Source</a> · <a href="https://github.com/sponsors/erickbatistaprado">Support Eitr</a>
+  <a href="https://eitr.info"><b>Website & download</b></a> · <a href="https://github.com/eitr-org/eitr">Source</a> · <a href="https://github.com/sponsors/erickbatistaprado">Support Eitr</a>
 </p>
 
 ---
