@@ -32,12 +32,7 @@ I enjoy problems involving **system design, performance, automation, cloud archi
   <img src="https://raw.githubusercontent.com/erickbatistaprado/eitr/main/branding/png/eitr-wordmark-green-1024.png" alt="Eitr" width="220" align="right"/>
 </a>
 
-**[Eitr](https://github.com/erickbatistaprado/eitr)** is an Arch Linux desktop built around Hyprland, Quickshell and Walker: one calm, theme-aware desktop that installs fully offline and updates with a snapshot you can roll back.
-
-- 🖥️ A custom bar with native panels, a control center and 17 themes with matching lockscreens
-- 🛡️ Snapshots before every update, a boot guard, home-folder snapshots and factory reset
-- 🎙️ Offline dictation, package search with build files, AI assistant sessions and more
-- 📖 An offline Handbook inside the desktop
+**[Eitr](https://github.com/erickbatistaprado/eitr)** is an Arch Linux desktop built around Hyprland, Quickshell and Walker: one calm, theme-aware desktop, packed with features from the first boot. **[Take the tour on eitr.info](https://eitr.info#tour)** to see everything it can do.
 
 <p align="center">
   <a href="https://eitr.info#tour"><img src="https://eitr.info/shots/walker.webp" alt="Eitr's main menu on the Norse theme" width="760"/></a>
