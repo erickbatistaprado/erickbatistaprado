@@ -28,11 +28,15 @@ I enjoy problems involving **system design, performance, automation, cloud archi
 
 ### ᛖ Featured project: Eitr
 
-<a href="https://eitr.info">
-  <img src="https://raw.githubusercontent.com/eitr-org/eitr/main/branding/png/eitr-wordmark-green-1024.png" alt="Eitr" width="220" align="right"/>
-</a>
+<p align="center">
+  <a href="https://eitr.info"><img src="https://raw.githubusercontent.com/eitr-org/eitr/main/branding/png/eitr-wordmark-green-1024.png" alt="Eitr" width="150"/></a>
+</p>
 
-**[Eitr](https://github.com/eitr-org/eitr)** is an Arch Linux desktop built around Hyprland, Quickshell and Walker: one calm, theme-aware desktop, packed with features from the first boot. Visit **[eitr.info](https://eitr.info)** to see everything it can do.
+<p align="center">
+  <b><a href="https://github.com/eitr-org/eitr">Eitr</a></b> is an Arch Linux desktop built around Hyprland, Quickshell and Walker:<br/>
+  one calm, theme-aware desktop, packed with features from the first boot.<br/>
+  Visit <b><a href="https://eitr.info">eitr.info</a></b> to see everything it can do.
+</p>
 
 <p align="center">
   <a href="https://eitr.info"><img src="https://eitr.info/shots/walker.webp" alt="Eitr's main menu on the Norse theme" width="760"/></a>
